@@ -41,9 +41,6 @@
   color: #fff;
 }
 
-.inputText::placeholder {
-  color: rgb(137, 27, 255);
-}
 
 .inputText:hover,
 .inputText:focus {
